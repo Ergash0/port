@@ -48,12 +48,13 @@ img {
       <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">×</span>
       <button type="submit">Facebook</button>
       <hr>
-      
-        <form class="modal-content animate" action="https://www.instagram.com/?hl=ru">
-    <div class="imgcontainer">
-      <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">×</span>
-      <button type="submit">Instagram</button>
-  
+                           
+                           
+         < form  class = " modal-content animate "  action = " https://www.youtube.com/ " >
+    < div  class = " imgcontainer " >
+    < span  onclick = " document.getElementById ('id01'). style.display = 'none' "  class = " close "  title = " Закрыть модальное окно " > × </ span >
+    < button  type = " submit " > YouTube </ button >
+</ label >
       
       
   
