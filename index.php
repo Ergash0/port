@@ -49,15 +49,11 @@ img {
       <button type="submit">Facebook</button>
       <hr>
       
-           <form class="modal-content animate" action="https://https://www.youtube.com/login/index.php">
-    <div class="imgcontainer">
-      <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">×</span>
-      <button type="submit">Youtube</button>
-      <hr>
-        <form class="modal-content animate" action="https://www.instagram.com/?hl=ru">
+        <form class="modal-content animate" action="https://www.instagram.com/askarov__ba1el/">
     <div class="imgcontainer">
       <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">×</span>
       <button type="submit">Instagram</button>
+  
       
       
   
