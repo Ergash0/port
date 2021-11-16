@@ -3,6 +3,13 @@
  <head>
   <body bgcolor=white background="https://images.pexels.com/photos/235994/pexels-photo-235994.jpeg?cs=srgb&dl=pexels-pixabay-235994.jpg&fm=jpg">
   <meta charset="utf-8">
+   
+    <h1>Portfoilo</h1>
+  
+  <hr>
+  
+  <h2>Personal data</h2>
+   
   <title>Круглые изображения</title>
   <style>
    .parent {
