@@ -23,8 +23,6 @@ img {
   </style>
  </head>
  <body>
-
-
    <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK0VkwK80EHyJLOXdyeNVvHMSoSp24KbbDwA&usqp=CAU" alt="" width="220" height="200" class="round"></p>
 <p>Name.  :   Nurmuhammed    </p>
 <hr>
@@ -41,11 +39,23 @@ img {
     <div class="imgcontainer">
       <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">×</span>
       <button type="submit">Facebook</button>
+      <hr>
+      
+           <form class="modal-content animate" action="https://ocs.iaau.edu.kg/login/index.php">
+    <div class="imgcontainer">
+      <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">×</span>
+      <button type="submit">Ocs</button>
+      <hr>
+        <form class="modal-content animate" action="https://www.instagram.com/?hl=ru">
+    <div class="imgcontainer">
+      <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">×</span>
+      <button type="submit">Instagram</button>
+      
+      
   
      
        
       </label>
     </div>
-
 </body>
 </html>
