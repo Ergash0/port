@@ -39,6 +39,7 @@ img {
 <hr>
 <p>Class  :.  Csc-20a.       </p>
 <hr>
+<pr>Adress:Baha 12
 <p>Phone : 996709491919
  <div class="container">
       
@@ -48,10 +49,10 @@ img {
       <button type="submit">Facebook</button>
       <hr>
       
-           <form class="modal-content animate" action="https://ocs.iaau.edu.kg/login/index.php">
+           <form class="modal-content animate" action="https://https://www.youtube.com/login/index.php">
     <div class="imgcontainer">
       <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">×</span>
-      <button type="submit">Ocs</button>
+      <button type="submit">Youtube</button>
       <hr>
         <form class="modal-content animate" action="https://www.instagram.com/?hl=ru">
     <div class="imgcontainer">
