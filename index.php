@@ -49,7 +49,7 @@ img {
       <button type="submit">Facebook</button>
       <hr>
       
-        <form class="modal-content animate" action="https://www.instagram.com/askarov__ba1el/">
+        <form class="modal-content animate" action="https://www.instagram.com/?hl=ru">
     <div class="imgcontainer">
       <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">×</span>
       <button type="submit">Instagram</button>
